@@ -1,0 +1,32 @@
+key : 8e1ccfc861f74d379d3aeb8bc1643b90
+
+
+for newsapi
+
+
+
+<img 
+        style={{cursor:"pointer"}}
+        src='https://assets.inshorts.com/website_assets/images/logo_inshorts.png' 
+        height="80%"
+        alt='logo'
+        />
+
+
+
+.nav{
+    height: 71px;
+    box-shadow: 0px 1px 8px #888888;
+    display:flex ;
+    align-items: center;
+}
+
+.icon{
+    flex: 0.5;
+}
+
+
+npm install @mui/material @emotion/react @emotion/styled
+
+npm install --save --legacy-peer-deps @material-ui/core
+npm install --save --legacy-peer-deps @material-ui/icons
